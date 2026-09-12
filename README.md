@@ -44,6 +44,7 @@ Prior professional background in business development and management, now focuse
 
 ### 📫 Contact
 📧 abdallasaidbigpartner@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/abdalla-sa)
 🌍 Based in Somalia, East Africa
 
 *Open to Software Engineering, Backend Engineering, Full-Stack, and AI/ML Engineering roles.*
