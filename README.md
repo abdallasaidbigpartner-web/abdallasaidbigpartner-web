@@ -1,5 +1,5 @@
 ### Abdalla Said Ahmed
-**Software Engineer** — Python · TypeScript · Go · SQL · Full-Stack & AI Engineering
+**Software Engineer** — Full Stack (Frontend, Backend) & AI Engineering | Python • TypeScript • Go • SQL | Business Development & Technical Problem Solving.
 
 I build real, working systems end-to-end — backend APIs, databases, authentication, frontends, and AI/RAG applications — with an emphasis on testing, documentation, and production-readiness, not just working code.
 
