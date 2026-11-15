@@ -36,6 +36,20 @@ Relational data modeling, queries, joins, transactions, indexing — verified wi
 
 ---
 
+### 🔒 Private Projects (source code not public)
+
+I am also developing two private projects. The source code stays private; the documentation, status and roadmaps are public.
+
+**[AgentGuard](https://github.com/abdallasaidbigpartner-web/Agentguard-overview)**
+Policy-as-code and tamper-evident audit logging for AI coding agents, written in TypeScript. Pre-alpha and under active development: v0.1.0 and v0.2.0 are released in a private repository, and the overview documents its capabilities, roadmap and limitations honestly.
+
+**[RelayForge](https://github.com/abdallasaidbigpartner-web/Relayforge-overview)**
+A planned Python platform for reliable webhook delivery and background job orchestration (FastAPI, PostgreSQL, Redis). Early engineering foundation: architecture and requirements are documented; implementation has not started.
+
+*Repositories as of 15 November 2026: 12 public (including this profile and the two project overviews) and 2 private (AgentGuard and RelayForge).*
+
+---
+
 ### 🎓 Background
 Information Technology, Africa University (graduated)
 Additional technical training — SOHDEC (Somali Human Development Center)
